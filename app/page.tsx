@@ -14,6 +14,7 @@ export default function Home() {
         />
         <h1>Bro's computer bouta'get COOKED!</h1>
         <h1>Mu ha ha ha ha !!!</h1>
+        <h1>DS GARNETT DAN NU</h1>
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
         
           <li className="mb-2">
